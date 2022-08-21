@@ -2,7 +2,7 @@
  # Learn2Earn Software Soultions
 
 We have 5 years of experience and successfully running a software house name as
-Learn2Earn (Professional Institute of Computer Science) and have a team of 20+ people.
+Learn2Earn (Professional Institute of Computer Sciences) and have a team of 20+ people.
 We are working on Hybrid App Development (Android, iOS, PWA's and Desktop). Our team has build a lot of apps for our clients 
 and 15+ running apps of our own. We will provide you best services according to your given requierments.
 
