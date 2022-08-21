@@ -42,33 +42,26 @@ https://github.com/Learn2Earn-Team/Services
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ioniccapacitor)
 
 
-## 🚀 About
-**Why you Choose us ?**
+## 🚀 Technologies We are Working On
+**Hybrid App Development**
+What is Hybrid App Development?
+Hybrid apps are a blend of both native and web solutions. Where the core of the application is written using web technologies.
+It also Includes Android, IOS, Desktop and PWA ( Progressive Web APP ).
+![group-shot-5f1945a85e4cb62ef4bf944844f2da69](https://user-images.githubusercontent.com/104660890/185780286-994c62e3-41e4-4725-b724-98d974f6234d.png)
 
-Our Business Has Developed Over Many Years To Meet IT Challenges Of Businesses Like Yours. We Provide Support, Insight And Solutions To Companies Through The Pakistan, Some Of Which May Have Limited Internal Resources, Tight Budgets, Growing Pains Or Concerns Over Resilience And Security.
+
+**Ionic Framework**
+Ionic framework is an open-source UI toolkit for building performant, high-quality mobile apps, desktop apps, and progressive web apps using web technologies.
+We are working on Ionic Framework since Ionic v2 with Angular.
+![how-capacitor-works](https://user-images.githubusercontent.com/104660890/185780208-14088938-f928-41f1-b9e7-799b86add08e.jpg)
 
 
-## Deployment
 
-To deploy this project run
-
-```bash
-  npm install
-```
-```bash
-  ionic serve
-```
-```bash
-  ionic build
-  npx cap sync
-  npx cap add [platform]
-```
-
-## Screenshots
+## Food App
 ![Untitled-mockup (1)](https://user-images.githubusercontent.com/104660890/185779727-ec171903-c781-4254-83ad-e7c6188e361e.png)
+![Untitled-mockup (2)](https://user-images.githubusercontent.com/104660890/185780015-eecdd6f3-f913-40ff-81ef-bf0911979f68.png)
+![Untitled-mockup (3)](https://user-images.githubusercontent.com/104660890/185780019-9de07e8d-7a8b-407e-9cda-431348a14312.png)
+![Untitled-mockup (4)](https://user-images.githubusercontent.com/104660890/185780020-b92ed6ef-1a67-4d74-a21a-c6683489351c.png)
+![Untitled-mockup (5)](https://user-images.githubusercontent.com/104660890/185780021-cd11be0b-9b8a-4c24-922b-d896b49aba90.png)
+![Untitled-mockup (6)](https://user-images.githubusercontent.com/104660890/185780022-6fdfd14d-f72c-49e0-b932-6a593079c208.png)
 
-![food2](https://user-images.githubusercontent.com/104660890/185778303-485db557-9c40-45b7-81e9-db7754a3cd58.PNG)
-![food3](https://user-images.githubusercontent.com/104660890/185778304-de37333e-4bf4-4122-b29f-aa7bdb1d0f54.PNG)
-![food4](https://user-images.githubusercontent.com/104660890/185778306-6b854757-5330-497a-a577-88f0ce78685b.PNG)
-![food5](https://user-images.githubusercontent.com/104660890/185778307-e7f3e644-a229-4559-8eca-e683dea2251a.PNG)
-![food6](https://user-images.githubusercontent.com/104660890/185778308-07fe7ab4-a9eb-4242-ae44-ed9c68aed4e7.PNG)
