@@ -125,6 +125,9 @@ We are working on Ionic Framework since Ionic v2 with Angular.
 
 ## Shopping (E-Commerce) App
 
+
+![Untitled-mockup (38)](https://user-images.githubusercontent.com/104660890/185783536-c7d59e05-9b1f-4da0-88e4-401e7687aab8.png)
+![Untitled-mockup (39)](https://user-images.githubusercontent.com/104660890/185783542-dd557fef-55df-44ef-9370-8c11b19cf36b.png)
 ![Untitled-mockup (40)](https://user-images.githubusercontent.com/104660890/185783505-8523e587-626b-4c15-a234-41c3fd711db2.png)
 ![Untitled-mockup (41)](https://user-images.githubusercontent.com/104660890/185783484-35d9c3e3-6e48-4330-913d-a5ad756f558f.png)
 ![Untitled-mockup (42)](https://user-images.githubusercontent.com/104660890/185783487-07790a99-7fd2-4c93-888e-5ef44841626b.png)
