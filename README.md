@@ -31,7 +31,8 @@ Visit our Blog [Ionic Capacitor](www.ioniccapacitor.com) or Our Portfolio.
 
 ## Demo
 
-link to demo
+Contact us at
+contact@learn2earnn.com
 
 https://github.com/Learn2Earn-Team/Services
 ## 🔗 Links
