@@ -168,3 +168,16 @@ We are working on Ionic Framework since Ionic v2 with Angular.
 ![Untitled-mockup (65)](https://user-images.githubusercontent.com/104660890/185783765-3a63ea27-43c1-47bc-8ed5-f01e19cd6bb1.png)
 ![Untitled-mockup (66)](https://user-images.githubusercontent.com/104660890/185783768-809aecc9-b8d4-466a-968a-b68c5623c403.png)
 ![Untitled-mockup (67)](https://user-images.githubusercontent.com/104660890/185783769-9ebea8cd-3502-4c0a-9dd3-9123dd6278fc.png)
+
+
+## Movies App
+
+![Untitled-mockup (68)](https://user-images.githubusercontent.com/104660890/185783836-20192608-a22d-4dd3-8a8f-3c8edbd2bbe7.png)
+![Untitled-mockup (69)](https://user-images.githubusercontent.com/104660890/185783838-5355327e-53d1-4e85-8a7b-15117838f4b3.png)
+![Untitled-mockup (70)](https://user-images.githubusercontent.com/104660890/185783842-f05d138d-f6df-4778-9dd1-c7458041ac2c.png)
+![Untitled-mockup (71)](https://user-images.githubusercontent.com/104660890/185783846-4ddc4e58-43c3-4b3c-9db6-b0292e9d1688.png)
+![Untitled-mockup (72)](https://user-images.githubusercontent.com/104660890/185783855-bbfab711-8188-43c7-a2b3-7e73054e59ca.png)
+![Untitled-mockup (73)](https://user-images.githubusercontent.com/104660890/185783868-5980a26e-2fbe-4520-9547-ff7527780b80.png)
+![Untitled-mockup (74)](https://user-images.githubusercontent.com/104660890/185783873-6abd6898-78dc-43ad-86bb-80f138bb0b41.png)
+![Untitled-mockup (75)](https://user-images.githubusercontent.com/104660890/185783881-3b7d8de3-abaa-46d7-9346-b94d0c0fef6e.png)
+
