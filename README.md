@@ -65,7 +65,8 @@ To deploy this project run
 ```
 
 ## Screenshots
-![food1](https://user-images.githubusercontent.com/104660890/185778300-339fcf6f-9486-4cba-8b56-c1805b6bd1e8.PNG)
+![Untitled-mockup (1)](https://user-images.githubusercontent.com/104660890/185779727-ec171903-c781-4254-83ad-e7c6188e361e.png)
+
 ![food2](https://user-images.githubusercontent.com/104660890/185778303-485db557-9c40-45b7-81e9-db7754a3cd58.PNG)
 ![food3](https://user-images.githubusercontent.com/104660890/185778304-de37333e-4bf4-4122-b29f-aa7bdb1d0f54.PNG)
 ![food4](https://user-images.githubusercontent.com/104660890/185778306-6b854757-5330-497a-a577-88f0ce78685b.PNG)
