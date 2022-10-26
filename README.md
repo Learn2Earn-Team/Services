@@ -24,7 +24,9 @@ Visit our Blog [Ionic Capacitor](www.ioniccapacitor.com) or Our Portfolio.
 
 ## Tech Stack
 
-**Client:** Angular, Ionic, HTML, CSS, PHP, JavaScript, TypeScript
+**Client:** 
+
+**************Angular, Ionic, HTML, CSS, PHP, JavaScript, TypeScript
 
 **Server:** Node, XAMPP, WAMP
 
