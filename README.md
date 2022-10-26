@@ -26,7 +26,9 @@ Visit our Blog [Ionic Capacitor](www.ioniccapacitor.com) or Our Portfolio.
 
 **Client:** Angular, Ionic, HTML, CSS, PHP, JavaScript, TypeScript
 
-**Server:** Node, XAMPP, WAMP
+**Server:**
+**************
+Node, XAMPP, WAMP
 
 
 ## Demo
