@@ -28,7 +28,6 @@ Visit our Blog [Ionic Capacitor](www.ioniccapacitor.com) or Our Portfolio.
 
 **Server:** Node, XAMPP, WAMP
 
-**************
 
 ## Demo
 
