@@ -1,5 +1,5 @@
 
- # Learn2Earn Software Soultions
+ # Learn2Earn Technologies
 
 We have 5 years of experience and successfully running a software house name as
 Learn2Earn (Professional Institute of Computer Sciences) and have a team of 20+ people.
@@ -10,24 +10,23 @@ and 15+ running apps of our own. We will provide you best services according to 
 ## Authors
 
 - [Shahzaib Malik](https://www.github.com/shahzaib.exe)
-- [Zagham Nadeem](https://www.github.com/zagham-nadeem)
 - [Rana Rehan](https://www.github.com/its-ranarehan)
 
 ## Contact
 
-For support, email constact@learn2earnn.com
+For support, email constact@learn2earntech.com
 
 ## Support
 
-For support, email support@learn2earnn.com
+For support, email support@learn2earntech.com
 
-Visit our Blog [Ionic Capacitor](www.ioniccapacitor.com) or Our Portfolio.
+Visit  Our Portfolio.
 [learn2earn Portfolio](https://learn2earnn.com/L2E_Portfolio.html)
 
 
 ## Tech Stack
 
-**Client:** Angular, Ionic, HTML, CSS, PHP, JavaScript, TypeScript
+**Client:** Angular, Ionic, React, ReactNative, WordPress, TailwindCSS, HTML, CSS, PHP, JavaScript, TypeScript
 
 **Server:** Node, XAMPP, WAMP
 
@@ -35,7 +34,7 @@ Visit our Blog [Ionic Capacitor](www.ioniccapacitor.com) or Our Portfolio.
 ## Demo
 
 Contact us at
-contact@learn2earnn.com
+contact@learn2earntech.com
 
 https://github.com/Learn2Earn-Team/Services
 ## 🔗 Links
